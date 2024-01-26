@@ -13,6 +13,7 @@ space and possibly back to the original space
 
 An exemplary use of these functions is provided in example.py, where also 
 alternative models are trained. Resulting projections are visualized after 
-training, see the following figures (reconstructions based on 4 components):
+training, see the following figures (reconstructions based on 4 components - 
+more components and longer training will yield better results):
 ![Reconstructions based on 4 (shift-invariant) components](imgs/shift_4.png)
 ![Reconstructions based on 4 (rotation-invariant) components](imgs/rotation_4.png)
