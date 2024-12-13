@@ -1,8 +1,8 @@
-# GT-PCA: General Transform-Invariant Principal Component Analysis
+# TI-FPCA: Transform-Invariant Functional Principal Component Analysis
 
 This repository contains code that implements the methodology proposed in 
-"GT-PCA: Effective and Interpretable Dimensionality Reduction with General
-Transform-Invariant Principal Component Analysis". 
+"TI-FPCA: Effective and Interpretable Dimensionality Reduction with 
+Transform-Invariant Functional Principal Component Analysis". 
 
 The core functions are in pc_layer.py (GTPCA_Layer, add_principal_component and 
 full_embedding):
